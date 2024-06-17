@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 17 Jun 2024 20:14:42 at https://html.themexriver.com/avarton/?storefront=envato-elements +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://html.themexriver.com/avarton/?storefront=envato-elements -O1 "C:\Users\mitta\Downloads\CareerCoach" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:15:42	Error: 	"Forbidden" (403) at link https://html.themexriver.com/avarton/courses-detail.html (from https://html.themexriver.com/avarton/index-2.html)
+20:15:42	Error: 	"Forbidden" (403) at link https://html.themexriver.com/avarton/course_details (from https://html.themexriver.com/avarton/about.html)
+20:15:42	Error: 	"Forbidden" (403) at link https://html.themexriver.com/avarton/assets/fonts/Gilroy-Bold.eot (from https://html.themexriver.com/avarton/assets/css/global.css)
+20:15:42	Error: 	"Forbidden" (403) at link https://html.themexriver.com/avarton/assets/fonts/Gilroy-Bold.eot? (from https://html.themexriver.com/avarton/assets/css/global.css)
+20:15:42	Error: 	"Forbidden" (403) at link https://html.themexriver.com/avarton/assets/fonts/Gilroy-Regular.eot (from https://html.themexriver.com/avarton/assets/css/global.css)
+20:15:42	Error: 	"Forbidden" (403) at link https://html.themexriver.com/avarton/assets/fonts/Gilroy-Regular.eot? (from https://html.themexriver.com/avarton/assets/css/global.css)
+20:15:42	Error: 	"Forbidden" (403) at link https://html.themexriver.com/avarton/assets/fonts/Shorelines-Script-Bold.eot (from https://html.themexriver.com/avarton/assets/css/global.css)
+20:15:42	Error: 	"Forbidden" (403) at link https://html.themexriver.com/avarton/assets/fonts/Shorelines-Script-Bold.eot? (from https://html.themexriver.com/avarton/assets/css/global.css)
+20:15:42	Error: 	"Forbidden" (403) at link https://html.themexriver.com/avarton/assets/fonts/Shorelines-Script-Bold.ttf (from https://html.themexriver.com/avarton/assets/css/global.css)
+20:15:42	Error: 	"Forbidden" (403) at link https://html.themexriver.com/avarton/assets/fonts/fontawesome-webfont.eot?v=4.3.0 (from https://html.themexriver.com/avarton/assets/css/font-awesome.css)
+20:15:42	Error: 	"Forbidden" (403) at link https://html.themexriver.com/avarton/assets/fonts/fontawesome-webfont.eot? (from https://html.themexriver.com/avarton/assets/css/font-awesome.css)
+20:15:42	Error: 	"Forbidden" (403) at link https://html.themexriver.com/avarton/assets/fonts/flaticon.eot (from https://html.themexriver.com/avarton/assets/css/flaticon.css)
+20:15:43	Error: 	"Forbidden" (403) at link https://html.themexriver.com/avarton/assets/css/owl.video.play.png (from https://html.themexriver.com/avarton/assets/css/owl.css)
+20:15:43	Error: 	"Forbidden" (403) at link https://html.themexriver.com/avarton/assets/css/images/ui-icons_444444_256x240.png (from https://html.themexriver.com/avarton/assets/css/jquery-ui.css)
+20:15:43	Error: 	"Forbidden" (403) at link https://html.themexriver.com/avarton/assets/css/images/ui-icons_777620_256x240.png (from https://html.themexriver.com/avarton/assets/css/jquery-ui.css)
+20:15:43	Error: 	"Forbidden" (403) at link https://html.themexriver.com/avarton/assets/css/images/ui-icons_cc0000_256x240.png (from https://html.themexriver.com/avarton/assets/css/jquery-ui.css)
+20:15:43	Error: 	"Forbidden" (403) at link https://html.themexriver.com/avarton/assets/css/images/ui-icons_777777_256x240.png (from https://html.themexriver.com/avarton/assets/css/jquery-ui.css)
+20:15:43	Error: 	"Forbidden" (403) at link https://html.themexriver.com/avarton/assets/css/mCSB_buttons.html (from https://html.themexriver.com/avarton/assets/css/jquery.mCustomScrollbar.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 1 seconds : 279 links scanned, 260 files written (11526553 bytes overall) [8882674 bytes received at 145617 bytes/sec], 5913356 bytes transferred using HTTP compression in 90 files, ratio 30%, 93.0 requests per connection
+(18 errors, 0 warnings, 0 messages)
